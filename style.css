@@ -1,0 +1,16 @@
+body {
+    background-color: yellow;
+}
+
+h1 {
+    text-align: center;
+}
+
+.head {
+    background-color: aqua;
+}
+
+#head2 {
+    background-color: red;
+    color: white;
+}
