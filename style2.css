@@ -1,0 +1,31 @@
+body {
+    padding: 20px
+}
+
+.header {
+    background-color: rgb(139, 71, 125);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 100;
+    text-align: center;
+    padding: 10px;
+    color:antiquewhite;
+    margin-bottom: 10px;
+}
+
+.content {
+    background-color: rgb(210, 105, 135);
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+.footer {
+    background-color: rgb(255, 136, 172);
+    color:antiquewhite;
+    padding: 10px
+}
+
+.bold {
+    text-transform: uppercase;
+    font-weight: 900;
+    color: rgb(151, 34, 65);
+}
