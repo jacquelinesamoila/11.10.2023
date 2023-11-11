@@ -1,0 +1,19 @@
+div.nav-bar {
+    background-color: rgb(33, 110, 84);
+    padding: 20px;
+    text-align: center;
+}
+
+.nav-bar a {
+    text-transform: uppercase;
+}
+
+div.content {
+    background-color: rgb(66, 188, 168);
+    padding: 10px;
+}
+
+p + P {
+    background-color: rgb(224, 235, 231);
+    padding: 10px;
+}
