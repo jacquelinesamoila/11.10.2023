@@ -1,0 +1,35 @@
+.visible {
+    visibility: visible;
+}
+.hidden {
+    visibility: hidden;
+}
+
+
+.op_1 {
+    opacity: 1;
+}
+.op_0 {
+    opacity: 0;
+}
+.op_05 {
+    opacity:0.5;
+}
+
+
+.none {
+    display: none;
+    font-weight: bold;
+}
+.inline {
+    display: inline;
+    font-weight: bold;
+}
+.block {
+    display: block;
+    font-weight: bold;
+}
+h3 {
+    background-color: rgb(255, 127, 189);
+    text-align: center;
+}
