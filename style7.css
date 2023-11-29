@@ -1,0 +1,31 @@
+@keyframes my-animation {
+    from {background-color: rgb(228, 215, 250);}
+    to {background-color:rgb(156, 241, 250);}
+}
+
+body {
+    animation: my-animation 2s alternate
+}
+
+img {
+    width:200px;
+    transition:0.5s;
+}
+
+img:active {
+    width:500px
+}
+
+.btn {
+ border:dotted
+}
+
+.we {
+    color:rgb(166, 235, 186)
+}
+.are {
+    color:rgb(181, 134, 224)
+}
+.given {
+    color:rgb(167, 218, 167)
+}
